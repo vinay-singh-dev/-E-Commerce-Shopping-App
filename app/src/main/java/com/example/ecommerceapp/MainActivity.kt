@@ -15,6 +15,11 @@ class MainActivity : AppCompatActivity() {
     private lateinit var rvProducts: RecyclerView
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        val btnUpload = findViewById<FloatingActionButton>(R.id.btnUpload)
+        btnUpload.setOnClickListener {
+            startActivity(Intent(this, UploadActivity::class.java))
+        }
+
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
