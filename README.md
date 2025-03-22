@@ -37,7 +37,7 @@ An elegant and fully functional **E-Commerce Shopping App** built using **Kotlin
 
 ## 🚀 Installation
 
-1. Clone the repository:
+1. Clone the repository: 
    ```bash
    git clone https://github.com/vinay-singh-dev/-E-Commerce-Shopping-App.git
    ```
