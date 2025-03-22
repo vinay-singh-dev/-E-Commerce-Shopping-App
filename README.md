@@ -50,9 +50,6 @@ An elegant and fully functional **E-Commerce Shopping App** built using **Kotlin
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
