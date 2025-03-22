@@ -32,7 +32,7 @@ An elegant and fully functional **E-Commerce Shopping App** built using **Kotlin
 ## 📸 Screenshots
 
 | Home Screen | Product Details | Cart |
-|-------------|----------------|------|
+|-------------|----------------|------| 
 | ![Home](https://via.placeholder.com/200x400.png) | ![Product](https://via.placeholder.com/200x400.png) | ![Cart](https://via.placeholder.com/200x400.png) |
 
 ## 🚀 Installation
